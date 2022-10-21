@@ -9,8 +9,6 @@ function setCardType (type) {
 const colors = {
   visa: ["purple", "blue"],
   mastercard: ["blue", "yellow"],
-  amex: ['blue', 'green'],
-  elo: ['orange', 'purple'],
   default: ["black", "gray"],
 }
 
